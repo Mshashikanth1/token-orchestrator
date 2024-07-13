@@ -1,12 +1,3 @@
-# token-orchestrator
-
-
-
-# api collection
-
-
-```
-
 {
 	"info": {
 		"_postman_id": "7a80a4fc-8e00-47f2-895b-c8243ddb6bd0",
@@ -160,5 +151,3 @@
 		}
 	]
 }
-
-```
